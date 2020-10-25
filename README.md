@@ -51,3 +51,5 @@ We found that Italy may have a bit of a sweet tooth, offering products that tend
 Australia's products contain the highest average amounts of sodium and fiber. Given the sodium content tends to be higher in packaged goods, this could imply that Australia eats more processed and packaged food than other countries. Australia also offers a high proportion of vegetarian products, which tend to have high fiber content. When combined with the fact that Australia's products contained the highest average amounts of fiber, this may indicate a strong preference of vegetarian food items in Australia.
 
 Spain earns the gold medal when it comes to the amount of vegan products offered. This may suggest the existence of a large market for plant-based, meat alternatives.
+
+You can view the code behind these plots [here](https://github.com/indialindsay/What-Can-We-Learn-From-Our-Food/blob/master/Exploring%20Nutrition%20By%20Country.ipynb)
