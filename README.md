@@ -16,10 +16,10 @@ Let's try to figure out which countries offer the healthiest products. Though th
 ![plot3](https://user-images.githubusercontent.com/68126147/97829756-996f2b00-1c90-11eb-8ceb-5023969629cc.png)
 ![plot2](https://user-images.githubusercontent.com/68126147/97829757-996f2b00-1c90-11eb-8276-df13c7475454.png)
  
-Sugar has fairly detrimental affects on health. It can lead to weight gain, increased risk of type 2 Diabetes, food addictions, and chronic digestive issues [learn more](https://www.webmd.com/diabetes/features/how-sugar-affects-your-body). Saturated fats can causes increases in harmful LDL cholesterol levels, create inflammation, and contribute to insulin resistance [learn more](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats). Excess sodium can lead to elevated blood pressure and cause varying health problems. 
+Sugar has fairly detrimental affects on health. It can lead to weight gain, increased risk of type 2 Diabetes, food addictions, and chronic digestive issues ([learn more](https://www.webmd.com/diabetes/features/how-sugar-affects-your-body)). Saturated fats can causes increases in harmful LDL cholesterol levels, create inflammation, and contribute to insulin resistance ([learn more](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats)). Excess sodium can lead to elevated blood pressure and cause varying health problems. 
 
 Protein is essential within a diet as it is used by our bodies to build and repair tissues. Our body is unable to store protein and needs relatively large quantities of it. Fiber aids our bodies in regulating digestion and lowers cholesterol levels. It is recommended to eat foods high in fiber to help achieve a healthy weight 
-[learn more](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983). 
+([learn more](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983)). 
 
 In general, most countries products tend to have a fairly high average sugar content per product with the US, Canada, and Belgium taking the lead. Russia has both the highest average protein and saturated fat content per 100g. 
 
